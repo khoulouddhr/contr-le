@@ -1,0 +1,6 @@
+type Computer{
+    proce : Int
+    ram :Int
+    price: Float
+    hardDrive :String
+}

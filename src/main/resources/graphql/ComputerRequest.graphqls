@@ -1,0 +1,6 @@
+type ComputerRequest{
+    proce : Int
+    ram :Int
+    price: Float
+    hardDrive :String
+}
